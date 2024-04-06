@@ -1,13 +1,14 @@
-# Django Tienda Virtual
+ <h1 align="center">Django Tienda Virtual</h1>
 
 En este repositorio encontrarás un proyecto web desarrollado con Django, utilizando Python como lenguaje base. Se trata de un sistema de carrito de compras donde los registros se almacenan en una base de datos SQLite. Además, cuenta con la funcionalidad de un entorno virtual, lo que facilita la gestión y la configuración del proyecto de manera aislada.
-👉 Herramientas utilizadas: 
-    ✅ Django
-    ✅ Python
-    ✅ Html
-    ✅ CSS
-    ✅ Bootstrap 
-    ✅ SQLite
+
+👉 **Herramientas utilizadas:** 
+   - ✅ Django
+   - ✅ Python
+   - ✅ HTML
+   - ✅ CSS
+   - ✅ Bootstrap 
+   - ✅ SQLite
 
 ☝️ ¿Que es Django? 
 
